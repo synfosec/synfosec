@@ -24,7 +24,7 @@
 
 Greetings,
 
-I'm synfosec || 0xsynfos3c. I operate as an independent security researcher based in the United States. My professional focus lies in computer security, particularly in the realm of red teaming and offensive security. I specialize in reverse engineering of computer software and systems, identify vulnerabilities and craft 0day exploits for them. I also possess expertise in digital forensics and have a strong proficiency in Open Source Intelligence (OSINT). I am deeply committed to continuous learning and advancement within computer science and the dynamic field of cybersecurity.
+I'm synfosec || 0xsynfos3c. I operate as an independent security researcher based in the United States. My professional focus lies in computer security, particularly in the realm of red teaming and offensive security. I specialize in reverse engineering of computer software and systems, identifying vulnerabilities and crafting 0day exploits for them. I also possess a bit of expertise in digital forensics and have a strong proficiency in Open Source Intelligence (OSINT). I am deeply committed to continuous learning and advancement within computer science and the dynamic field of cybersecurity.
 
 ### 0xff 🤝
 
